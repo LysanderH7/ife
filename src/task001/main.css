@@ -1,0 +1,14 @@
+.g-hd {
+  height: 50px;
+  color: #999;
+  clear: both;
+}
+
+.g-hd h1 {
+  float: left;
+  margin-left: 20px;
+}
+
+.g-hd h1 img {
+  display: block;
+}
